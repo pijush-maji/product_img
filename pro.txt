@@ -1,120 +1,125 @@
-1.a. (Puma) Solid Women Round Neck White T-Shirt - ₹590
-  b. (Puma) Solid Women Round Neck Black T-Shirt - ₹608
-  c. (ADIDAS) Solid Women Round Neck Black, Orange T-Shirt - ₹575
-  d. (The Dry State) Solid Women Round Neck Multicolor T-Shirt - ₹341
-  e. (Elepants) Solid Women Round Neck Yellow T-Shirt - ₹269
+1.a. Puma Solid Women Round Neck White T-Shirt - ₹590
+  b. Puma Solid Women Round Neck Black T-Shirt - ₹608
+  c. ADIDAS Solid Women Round Neck Black, Orange T-Shirt - ₹575
+  d. The Dry State Solid Women Round Neck Multicolor T-Shirt - ₹341
+  e. Elepants Solid Women Round Neck Yellow T-Shirt - ₹269
 
-2.a. (People) Embroidered Women Round Neck Red, Green T-Shirt - ₹427
-  b. (ADIDAS) Solid Women Round Neck Black T-Shirt - ₹678
-  c. (Metronaut) Solid Women Boat Neck Black T-Shirt - ₹475
-  d. (Puma) Solid Women Round Neck Black T-Shirt - ₹620
-  e. (LYRA) Solid Women Round Neck Pink T-Shirt - ₹324
+2.a. People Embroidered Women Round Neck Red, Green T-Shirt - ₹427
+  b. ADIDAS Solid Women Round Neck Black T-Shirt - ₹678
+  c. Metronaut Solid Women Boat Neck Black T-Shirt - ₹475
+  d. Puma Solid Women Round Neck Black T-Shirt - ₹620
+  e. LYRA Solid Women Round Neck Pink T-Shirt - ₹324
 
-3.a. (Van Heusen) Women Embroidered Formal Shirt - ₹607
-  b. (La Zoire) Women Solid Formal Mandarin Shirt - ₹600
-  c. (DARZI) Women Striped Formal Shirt - ₹399
-  d. (MONTREZ) Women Solid Formal Spread Shirt - ₹284
-  e. (Selvia) Women Checkered Casual Cut Away Shirt - ₹299
+3.a. Van Heusen Women Embroidered Formal Shirt - ₹607
+  //b. La Zoire Women Solid Formal Mandarin Shirt - ₹600(Ruffle)
+  c. DARZI Women Striped Formal Shirt - ₹399
+  d. MONTREZ Women Solid Formal Spread Shirt - ₹284
+  e. Selvia Women Checkered Casual Cut Away Shirt - ₹299
 
-4.a. (Harpa) Casual 3/4 Sleeve Solid Women Yellow Top - ₹405
-  b. (Sassafras) Casual Sleeveless Floral Print Women White, Pink Top - ₹541
-  c. (Rare) Casual Half Sleeve Solid Women Orange Top - ₹485
-  d. (Miss Chase) Women Skater Blue Dress - ₹703
-  e. (Sassafras) Women Solid Casual Chinese Collar Shirt - ₹495
+4.a. Harpa Casual 3/4 Sleeve Solid Women Yellow Top - ₹405
+  b. Sassafras Casual Sleeveless Floral Print Women White, Pink Top - ₹541
+  c. Rare Casual Half Sleeve Solid Women Orange Top - ₹485
+  //d. Miss Chase Women Skater Blue Dress - ₹703(one piece)
+  e. Sassafras Women Solid Casual Chinese Collar Shirt - ₹495
 
-5.a. (ERAVATI) Striped Cotton Silk Semi Stitched Anarkali Gown  (Dark Green) - ₹399
-  b. (SHREE HANDLOOM) Printed Cotton Blend Stitched Anarkali Gown  (Green, White) - ₹699
-  c. (N.B.F FASHION) Printed Jacquard Stitched Flared/A-line Gown  (Purple) - ₹1,549
-  d. (Mert India) Solid Rayon Blend Stitched Anarkali Gown  (Blue) - ₹499
-  e. (Dwarkesh) Georgette Blend Stitched Flared/A-line Gown  (Red) - ₹998
+5.a. ERAVATI Striped Cotton Silk Semi Stitched Anarkali Gown  Dark Green - ₹399
+  b. SHREE HANDLOOM Printed Cotton Blend Stitched Anarkali Gown  Green, White - ₹699
+  c. N.B.F FASHION Printed Jacquard Stitched Flared/A-line Gown  Purple - ₹1,549
+  d. Mert India Solid Rayon Blend Stitched Anarkali Gown  Blue - ₹499
+  e. Dwarkesh Georgette Blend Stitched Flared/A-line Gown  Red - ₹998
 
-6.a. (Uptownie Lite) Solid Women Jumpsuit - ₹668
-  b. (Sassafras) Solid Women Jumpsuit - ₹910
-  c. (Uptownie Lite) Floral Print Women Jumpsuit - ₹621
-  d. (Uptownie Lite) Floral Print Women Jumpsuit - ₹621
-  e. (Slenor) Striped Women Jumpsuit - ₹620
+6. 
+a. Uptownie Lite Solid Women Jumpsuit - ₹668
+  b. Sassafras Solid Women Jumpsuit - ₹910
+  c. Uptownie Lite Floral Print Women Jumpsuit - ₹621
+  d. Uptownie Lite Maroon Women Jumpsuit - ₹1621
+  e. Slenor Striped Women Jumpsuit - ₹620
 
-7.a. (Neha) Jogger Fit Women Dark Blue Jeans - ₹355
-  b. (Miss Chase) Skinny Women White Jeans - ₹854
-  c. (Kotty) Regular Women Black Jeans - ₹909
-  d. (Kotty) Slim Women Grey Jeans - ₹488
-  e. (F2M) Slim Women Blue Jeans - ₹562
+7.a. Neha Jogger Fit Women Dark Blue Jeans - ₹355
+  b. Miss Chase Skinny Women White Jeans - ₹854
+  c. Kotty Regular Women Black Jeans - ₹909
+  d. Kotty Slim Women Grey Jeans - ₹488
+  e. F2M Slim Women Blue Jeans - ₹562
 
-8.a. Fzc Light Blue Jegging  (Printed) - ₹355
-  b. Mesh Blue Jegging  (Printed) - ₹299
-  c. Glamcci Green Jegging  (Printed) - ₹339
-  d. Jealous 21 Black Jegging  (Solid) - ₹585
-  e. RD Fashions White Jegging  (Checkered) - ₹299
+8.a. Fzc Light Blue Jegging  Printed - ₹355
+  b. Mesh Blue Jegging  Printed - ₹299
+  c. Glamcci Green Jegging  Printed - ₹339
+  d. Jealous 21 Black Jegging  Solid - ₹585
+  e. RD Fashions White Jegging  Checkered - ₹299
 
-9.a. (Miss Chase) Women Solid Straight White Skirt - ₹629
-  b. (Spykar) Women Solid Straight Dark Blue Skirt - ₹1,121
-  c. (BuyNewTrend) Women Self Design A-line Maroon Skirt - ₹359
-  d. (Popnetic) Women Solid Asymetric Black Skirt - ₹499
-  e. (NOZZBY) - Women Printed Flared Blue Skirt - ₹349
+9.a. Miss Chase Women Solid Straight White Skirt - ₹629
+  b. Spykar Women Solid Straight Dark Blue Skirt - ₹1,121
+  c. BuyNewTrend Women Self Design A-line Maroon Skirt - ₹359
+  d. Popnetic Women Solid Asymetric Black Skirt - ₹499
+  e. NOZZBY - Women Printed Flared Blue Skirt - ₹349
 
-10.a. (Purple Feather) Women Solid Pencil Black Skirt - ₹499
-   b. (Harida Exports) Women Self Design Wrap Around Red Skirt - ₹249
-   c. (ANVI Be Yourself) Women Checkered Pencil White, Blue Skirt - ₹900
-   d. (MARKS & SPENCER) Women Checkered Pencil Black, White Skirt - ₹2,119
-   e. (Kotty) Women Solid Pencil Beige Skirt - ₹487
+10.a. Purple Feather Women Solid Pencil Black Skirt - ₹499
+   b. Harida Exports Women Self Design Wrap Around Red Skirt - ₹249
+   c. ANVI Be Yourself Women Checkered Pencil White, Blue Skirt - ₹900
+   d. MARKS & SPENCER Women Checkered Pencil Black, White Skirt - ₹2,119
+   e. Kotty Women Solid Pencil Beige Skirt - ₹487
 
-11.a. (A9) Women Dark Blue, White Capri - ₹449
-   b. (Dollar Missy) Relaxed Capri-Black Women Black Capri - ₹421
-   c. (Jockey) Women Pink Capri - ₹699
-   d. (A9) Women Light Blue Capri - ₹399
-   e. (V2 Retail Limited) Women Pink Capri - ₹279
+11.a. A9 Women Dark Blue, White Capri - ₹449
+   b. Dollar Missy Relaxed Capri-Black Women Black Capri - ₹421
+   c. Jockey Women Pink Capri - ₹699
+   d. A9 Women Light Blue Capri - ₹399
+   e. V2 Retail Limited Women Pink Capri - ₹279
 
-12.a. (M7 by Metronaut) Striped Women White, Black Track Pants - ₹539
-   b. (Jockey) Solid Women Blue Track Pants - ₹749
-   c. (Biba) Regular Fit Women White Cotton Trousers - ₹1,189
-   d. (KD) Women Cargos - ₹701
-   e. (UZARUS) Checkered Women Blue Track Pants - ₹474
 
-13.a. (S.N.A ENTERPRISES) Full Sleeve Washed, Solid Women Jacket - ₹440
-   b. (Texco) Full Sleeve Solid Women Jacket - ₹1,709
-   c. (Christy World) Full Sleeve Solid Women Jacket - ₹599
-   d. (Christy World) Full Sleeve Solid Women Jacket - ₹599
-   e. (Sassafras) Sleeveless Solid Women Jacket - ₹563
+Done
 
-14.a. (Van Heusen) Solid Single Breasted Formal Women Blazer(Grey) - ₹1,879
-   b. (Sassafras) Floral Print Single Breasted Casual Women Full Sleeve Blazer(Multicolor) - ₹809
-   c. (V2 Retail Limited) Solid Single Breasted Casual Women Blazer(Dark Blue) - ₹399
-   d. (Vero Moda) Solid Single Breasted Casual Women Full Sleeve Blazer(Blue) - ₹1,070
-   e. (Van Heusen) Self Design Single Breasted Casual Women Blazer(Grey) - ₹1,350
+12.a. M7 by Metronaut Striped Women White, Black Track Pants - ₹539
+   b. Jockey Solid Women Blue Track Pants - ₹749
+   c. Biba Regular Fit Women White Cotton Trousers - ₹1,189
+   d. KD Women Cargos - ₹701
+   e. UZARUS Checkered Women Blue Track Pants - ₹474
 
-15.a. (Indibelle) Women Straight Half Sleeve Multicolor Shrug - ₹501
-   b. (Serein) Women Longline 3/4th Sleeve Pink Shrug - ₹479
-   c. (People) Women Full Sleeve Green Shrug - ₹266
-   d. (DARZI) Women 3/4th Sleeve Multicolor Shrug - ₹399
-   e. (Serein) Women Asymmetric 3/4th Sleeve Green Shrug - ₹449
+13.a. S.N.A ENTERPRISES Full Sleeve Washed, Solid Women Jacket - ₹440
+   b. Texco Full Sleeve Solid Women Jacket - ₹1,709
+   c. Christy World Full Sleeve Solid Women Jacket - ₹599
+   d. Christy World Full Sleeve Solid Women Jacket - ₹599
+   e. Sassafras Sleeveless Solid Women Jacket - ₹563
 
-16.a. (Saara) Printed, Animal Print Kalamkari Art Silk Saree(Multicolor, Dark Green, Pink) - ₹400
-   b. (Yashika) Polka Print Bhagalpuri Cotton Blend Saree(Blue) - ₹283
-   c. (Saara) Geometric Print Venkatagiri Georgette Saree(White, Black) - ₹399
-   d. (Yashika) Woven Daily Wear Cotton Silk Saree(Yellow) - ₹269
-   e. (Saara) Striped, Woven, Embellished Kanjivaram Poly Silk Saree(Black, Beige) - ₹399
+14.a. Van Heusen Solid Single Breasted Formal Women BlazerGrey - ₹1,879
+   b. Sassafras Floral Print Single Breasted Casual Women Full Sleeve BlazerMulticolor - ₹809
+   c. V2 Retail Limited Solid Single Breasted Casual Women BlazerDark Blue - ₹399
+   d. Vero Moda Solid Single Breasted Casual Women Full Sleeve BlazerBlue - ₹1,070
+   e. Van Heusen Self Design Single Breasted Casual Women BlazerGrey - ₹1,350
 
-17.a. (
-   b. (
-   c. (
-   d. (
-   e. (
+15.a. Indibelle Women Straight Half Sleeve Multicolor Shrug - ₹501
+   b. Serein Women Longline 3/4th Sleeve Pink Shrug - ₹479
+   c. People Women Full Sleeve Green Shrug - ₹266
+   d. DARZI Women 3/4th Sleeve Multicolor Shrug - ₹399
+   e. Serein Women Asymmetric 3/4th Sleeve Green Shrug - ₹449
 
-18.a. (
-   b. (
-   c. (
-   d. (
-   e. (
+16.a. Saara Printed, Animal Print Kalamkari Art Silk SareeMulticolor, Dark Green, Pink - ₹400
+   b. Yashika Polka Print Bhagalpuri Cotton Blend SareeBlue - ₹283
+   c. Saara Geometric Print Venkatagiri Georgette SareeWhite, Black - ₹399
+   d. Yashika Woven Daily Wear Cotton Silk SareeYellow - ₹269
+   e. Saara Striped, Woven, Embellished Kanjivaram Poly Silk SareeBlack, Beige - ₹399
 
-19.a. (
-   b. (
-   c. (
-   d. (
-   e. (
+17.a. Anubhutee Women Black & Blue Printed Straight Kurti - 679
+   b. Anubhutee Women Green & Golden Foil Print Straight Kurti - 549
+   c. Kvsfab Women Black Embroidered A-Line Kurti - 879
+   d. Anubhutee Women Yellow Floral Print Straight Kurti - 549
+   e. Anubhutee Women Maroon Geometric Print A-Line Kurti - 649
 
-20.a. (Ratnavati) Cotton Blend, Art Silk Self Design Red Women Dupatta - ₹284
-   b. (BEUNIV) Art Silk Woven Red Women Dupatta - ₹299
-   c. (PK BANDHANI) Art Silk Self Design Red, Green, Yellow Women Dupatta - ₹449
-   d. (Ecolors Fab) Cotton Blend, Art Silk Woven Gold, Black Women Dupatta - ₹359
-   e. (Dupatta Bazaar) Art Silk Solid Beige Women Dupatta - ₹268
+
+18.a. Soch Women's Silk Anarkali Salwar Suit Set - 3866
+   b. Fabsom Women's Rayon Salwar Suit - 999
+   c. Amayra Women's Rayon Salwar Suit Green - 999
+   d. SSARA Women's Khadi Cotton Salwar Suit - 699
+   e. sunrise paridhan Women's Viscose Salwar Suit - 996 
+
+19.a. Aurelia Women's Chudidar Bottom - 280
+   b. Anubhutee Women Black & Blue Printed Straight Kurti - 498
+   c. Pi World Women's Cotton Churidar Leggings Multicolour Free Size Pack of 6 - 799
+   d. Lux Lyra Pack of 2 Churidar Leggings - 798
+   e. W Mustard Yellow Churidar Leggings - 299
+
+20.a. Ratnavati Cotton Blend, Art Silk Self Design Red Women Dupatta - ₹284
+   b. BEUNIV Art Silk Woven Red Women Dupatta - ₹299
+   c. PK BANDHANI Art Silk Self Design Red, Green, Yellow Women Dupatta - ₹449
+   d. Ecolors Fab Cotton Blend, Art Silk Woven Gold, Black Women Dupatta - ₹359
+   e. Dupatta Bazaar Art Silk Solid Beige Women Dupatta - ₹268
 
